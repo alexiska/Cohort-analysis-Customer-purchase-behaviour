@@ -10,9 +10,9 @@
 
 ## Python package used: 
     Pandas 
-    Numpy, 
-    Matplotlib, 
-    Seborn 
+    Numpy 
+    Matplotlib 
+    Sebaorn 
     Datetime
 
-![Cohort](/images/Cohort.jpg)
+![Cohort](/Images/Cohort.jpg)
