@@ -15,4 +15,4 @@
    Sebaorn 
    Datetime
 
-![Cohort](Images/Cohort.png)
+![](Images/Cohort.PNG)
