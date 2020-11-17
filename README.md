@@ -14,3 +14,5 @@
     Matplotlib, 
     Seborn 
     Datetime
+
+![Cohort](/images/Cohort.jpg)
