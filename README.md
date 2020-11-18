@@ -14,7 +14,7 @@
 * Pandas 
 * Numpy 
 * Matplotlib 
-* Sebaorn 
+* Seaborn 
 * Datetime
 
 ![](Images/Cohort.png)
