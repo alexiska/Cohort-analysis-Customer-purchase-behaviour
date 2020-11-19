@@ -22,7 +22,7 @@
 * Seaborn 
 * Datetime
 
-### Table Content 
+### Table of contents
 * Exporatory data analysis (EDA)
 * Data cleaning and manipulation
 * Cohort analysis
