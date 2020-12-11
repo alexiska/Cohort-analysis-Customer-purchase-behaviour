@@ -1,7 +1,7 @@
 # Cohort-analysis-Customer-purchase-behaviour
 
  A time based cohort analysis has been performed to see the customers purchase activity. Customers are grouped into cohorts, based on their month of their first purchase and then calculate the number of months since the first purchase. Retention is then calculated and plotted on a heatmap.
- ![Cohort_png](/Images/LandingPage.png) 
+ ![Cohort_png](/Images/Cohort.png) 
 
 ## Attribute Information
 
