@@ -29,4 +29,4 @@
 * Cohort analysis
 * Conslusion
 
-![](Images/Cohort.png)
+
