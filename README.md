@@ -16,7 +16,7 @@
 
 (Source: https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 
-### Python package used
+### Python package 
 * Pandas 
 * Numpy 
 * Matplotlib 
